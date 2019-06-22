@@ -1,0 +1,1 @@
+CMD java -jar /target/dsp-1.0-SNAPSHOT.jar
